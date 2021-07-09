@@ -12,7 +12,7 @@
 
 
 ### 👨‍💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsiong2007&layout=compact)](https://github.com/junsiong2008/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsiong2008&layout=compact)](https://github.com/junsiong2008/github-readme-stats)  
 
 
 ### 📊 Github Stats
