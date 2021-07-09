@@ -1,7 +1,5 @@
 ### Hello, world! I'm Jun Siong! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Neutral app.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate with anyone who shares the same interest and goal as I do!
