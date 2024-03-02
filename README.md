@@ -8,7 +8,7 @@
 - 💬 Ask me about Flutter!
 - 📫 How to reach me: <a href="https://twitter.com/junsiong2008">@junsiong2008</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to eat!    
+- ⚡ Fun fact: I like to eat 🍣!    
   
 ### 📊 Github Stats
 [![JunSiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsiong2008)](https://github.com/junsiong2008/github-readme-stats)  
